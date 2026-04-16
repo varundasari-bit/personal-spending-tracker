@@ -1,23 +1,23 @@
-# 💸 Personal Spending Tracker
+#  Personal Spending Tracker
 
 A smart expense tracking app with auto categorization and insights.
 
-## 🚀 Features
+##  Features
 - Manual expense entry
 - Auto categorization (rule-based)
 - Spending insights
 - Anomaly detection
 - Monthly trends
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - Pandas
 - Matplotlib
 
-## 📸 Demo
+##  Demo
 (Add screenshot here)
 
-## ▶️ Run Locally
+##  Run Locally
 pip install -r requirements.txt
 streamlit run app.py
